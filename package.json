@@ -1,0 +1,24 @@
+{
+  "author": "ComPWA <compwa@ep1.rub.de> (http://compwa-org.rtfd.io)",
+  "bugs": {
+    "url": "https://github.com/ComPWA/commitlint-config/issues"
+  },
+  "description": "A shareable conventional-changelog-lint configuration for the Common Partial Wave Analysis organisation.",
+  "devDependencies": {},
+  "homepage": "https://github.com/ComPWA/commitlint-config#readme",
+  "keywords": [
+    "canonical",
+    "conventional-changelog",
+    "changelog",
+    "commit",
+    "config",
+    "lint"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@compwa/commitlint-config",
+  "scripts": {
+    "test": ""
+  },
+  "version": "1.0.1"
+}
