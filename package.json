@@ -3,8 +3,10 @@
   "bugs": {
     "url": "https://github.com/ComPWA/commitlint-config/issues"
   },
+  "dependencies": {
+    "@commitlint/config-conventional": ""
+  },
   "description": "A shareable conventional-changelog-lint configuration for the Common Partial Wave Analysis organisation.",
-  "devDependencies": {},
   "homepage": "https://github.com/ComPWA/commitlint-config#readme",
   "keywords": [
     "canonical",
