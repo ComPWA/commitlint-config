@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ["@commitlint/config-conventional@v18.4.4"],
+  extends: ["@commitlint/config-conventional"],
   rules: {
     "header-max-length": [2, "always", 72],
     "type-case": [2, "always", ["upper-case"]],
