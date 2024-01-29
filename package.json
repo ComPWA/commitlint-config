@@ -4,7 +4,7 @@
     "url": "https://github.com/ComPWA/commitlint-config/issues"
   },
   "dependencies": {
-    "@commitlint/config-conventional": ""
+    "@commitlint/config-conventional": "v18.4.4"
   },
   "description": "A shareable conventional-changelog-lint configuration for the Common Partial Wave Analysis organization.",
   "homepage": "https://github.com/ComPWA/commitlint-config#readme",
@@ -22,5 +22,5 @@
   "scripts": {
     "test": ""
   },
-  "version": "1.0.2"
+  "version": "1.1.0"
 }
